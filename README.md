@@ -2,8 +2,8 @@
 
 ### Protein detection and function assingment
 
-> .[!NOTE]
-> Updating the Nextflowcode used to perform the analysis
+  > [!NOTE]
+  > Updating the Nextflowcode used to perform the analysis
 
 ### Statistical analysis
 
