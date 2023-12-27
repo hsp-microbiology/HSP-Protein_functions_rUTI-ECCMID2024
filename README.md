@@ -14,7 +14,7 @@ The Phageome analysis has been performed using the nextflow available at Shell_a
 
 [diamond](https://github.com/bbuchfink/diamond)
 
-[famli]([https://github.com/DerrickWood/kraken2](https://github.com/FredHutch/FAMLI))
+[famli](https://github.com/DerrickWood/kraken2](https://github.com/FredHutch/FAMLI)
 
 [Upimapi](https://github.com/iquasere/UPIMAPI)
 
